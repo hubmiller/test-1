@@ -1,0 +1,3 @@
+this is index.txt
+hello, my name is kim.
+it will conflict
